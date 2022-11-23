@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+div.img1 {
+    display: inline-block;
+    width: 300px;
+    margin-left: 35px;
+    margin-right: auto 
+}
+div.img2 {
+    display: inline-block;
+    width: 300px;
+    margin-left: 300px;
+    margin-right: 100px
+}
+.audio1 {
+    display: flex;
+    justify-content: center;
+}
+div.IG{
+    margin-left: 640px;
+    padding: 10px 10px;
+}
+
+button{
+    background: #ff7b00;
+	color: rgb(0, 0, 0);
+	border-style: outset;
+	border-color: #000000;
+	height: 40px;
+	width: 90px;
+	font: bold15px arial,sans-serif;
+	text-shadow: none;
+    border-radius: 500px;
+}
+button:hover {
+	background: #000000;
+	color: #ff7b00;
+	border: 1px solid rgb(0, 0, 0);
+	border-radius: 20px;
+	box-shadow: 3px 3px 3px #ff7b00;
+	text-shadow: none;
+    cursor: pointer;
+}
